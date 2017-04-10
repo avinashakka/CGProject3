@@ -10,7 +10,6 @@ as one of my extra credit function (recursive reflection) is partially finished 
 
 FULL NAME: AVINASH AKKA
 
-   USC ID: 3874-5774-01
 
 
 MANDATORY FEATURES
